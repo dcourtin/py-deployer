@@ -1,0 +1,7 @@
+my_config.json
+__pycache__
+__pycache__/*
+app.tar
+app
+deploy.log
+deployer_deploy_test.py

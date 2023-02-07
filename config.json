@@ -1,0 +1,13 @@
+{
+    "new_version" : "1.0.0", 
+    "local_folder": "",
+    "remote_folder": "",
+    "after_transfer_function": "deployer_hooks",
+    "hosts": [
+        {
+            "hostname": "",
+            "username": "",
+            "password": ""
+        }
+    ]
+}
