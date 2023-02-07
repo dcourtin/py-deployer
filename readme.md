@@ -1,5 +1,5 @@
 
-# Deployer
+# PyDeployer
 
 A script to deploy source code from a point to another using ssh.
 
